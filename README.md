@@ -9,7 +9,8 @@ This code compares precipitation end-member methods and their varying contributi
   - Treasure Valley; Mores Creek Watershed; Dry Creek Experimental Watershed; GMWL
     - Distribution Plot
 - 02_wrf_analysis.ipynb
-  - MCW (Temp; SWE; Precip Accumulation; Precip; Snow)     
+  - MCW (Temp; SWE; Precip Accumulation; Precip; Snow)
+  - WY_2023.nc (Not provided in Github ; BSU)     
 - 03_Weather_Data
   - Meteoric Weather Station Analysis  
 - 04_Isotope_Analysis.ipynb
