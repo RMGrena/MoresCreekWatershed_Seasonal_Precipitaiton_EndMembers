@@ -44,24 +44,22 @@ This code compares precipitation end-member methods and their varying contributi
 - read_dcew.py
 
 ## Data/
-1. MCW_Processed_Iso_NOV23.csv
-2. DCEW_Stream_Isotopes.csv
-3. swe_daily_site7_wrf.csv
-4. ACPRCP_daily_site7_wrf.csv
-5. Temp_daily_site7_wrf.csv  
-6. swe_daily_snotel.csv
-7. SN_WaterYear_2023.csv # Mores Creek Snotel
-8. Town_Creek_metdata.csv # Boise National Forest Met Station
-9. met_station_temps.csv # MCW Meteorological Stations
+01. MCW_Processed_Iso_NOV23.csv
+02. DCEW_Stream_Isotopes.csv
+03. swe_daily_site7_wrf.csv
+04. ACPRCP_daily_site7_wrf.csv
+05. Temp_daily_site7_wrf.csv  
+06. swe_daily_snotel.csv
+07. SN_WaterYear_2023.csv # Mores Creek Snotel
+08. Town_Creek_metdata.csv # Boise National Forest Met Station
+09. met_station_temps.csv # MCW Meteorological Stations
 10. PP_weather_FY22.csv # Piolot Peak Met Station
 11. Temp_allsites_weekly.csv
 12. precip_Accum_RC_IB.csv 
 13. morescreekmassweighting.csv
-
 14. MCW_Precip_Iso_Metrics.csv
 15. RC_Accum_BySite.csv
 16. DCEW_Danny_Precip_Isotopes.csv 
 17. MCW_DCEW_Stream_Iso.csv
-
 18. MoresCreek_USGS_Gage.csv
 19. precip_accum_site_metrics.csv
