@@ -1,0 +1,10 @@
+mcw = 'mediumseagreen'
+bcw = 'slateblue'
+rain = 'darkred' #MC only
+warm = 'goldenrod' #MC only 
+snow = 'steelblue'
+cold = 'lightsteelblue'
+BC_snow = 'teal'
+BC_rain = 'peru'
+BC_warm = 'moccasin'
+BC_cold = 'yellowgreen'
